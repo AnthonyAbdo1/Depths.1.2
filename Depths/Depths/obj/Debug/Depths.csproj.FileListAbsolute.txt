@@ -1,0 +1,10 @@
+C:\Users\Anthony\source\repos\Depths\Depths\bin\Debug\Depths.exe.config
+C:\Users\Anthony\source\repos\Depths\Depths\bin\Debug\Depths.exe
+C:\Users\Anthony\source\repos\Depths\Depths\bin\Debug\Depths.pdb
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.MainForm.resources
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.Properties.Resources.resources
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.csproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.exe
+C:\Users\Anthony\source\repos\Depths\Depths\obj\Debug\Depths.pdb
